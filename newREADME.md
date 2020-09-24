@@ -1,10 +1,40 @@
 
-  # Creating a readME.
-  ## wouldnt you know it, I'm creating a readme
-  ## undefined
-  ## just click install
-  ## you type in all this info and then its magically generated
-  ## Mozilla Public License 2.0
-  ## send me a message yo!
-  ## I'd rather not.
-  ## send me an email at:
+  # project Title!
+
+  ## Description:
+
+  ewrgwergwergwqerg
+
+  ## Table of Contents:
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](tests)
+  * [Questions](questions)
+  
+  ## Installation:
+  
+  gwrgwergasdfgweqrgq
+
+  ## Usage:
+  
+  aqergqerthrtjrythnbf
+
+  ## License:
+  
+  GNU AGPLv3
+
+  ## Contributing:
+  
+  erth6hrgrstwhqarh
+
+  ## Tests:
+  
+  qh4trhwt4hrsthrweh
+
+  ## Questions:
+  
+  Questions can be directed to: tgwgdrgrwehhy
+  For other work please visit: aerthwrfbwretve

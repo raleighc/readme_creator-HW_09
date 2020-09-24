@@ -14,11 +14,11 @@ const questions = [
     name: "description",
     message: "Please describe your project:",
   },
-  {
-    type: "input",
-    name: "table of contents",
-    message: "Please layout the table of contents for your project:",
-  },
+//   {
+//     type: "input",
+//     name: "table of contents",
+//     message: "Please layout the table of contents for your project:",
+//   },
   {
     type: "input",
     name: "installation",
@@ -55,25 +55,30 @@ const questions = [
   },
   {
     type: "input",
-    name: "questions",
-    message: "Provide methods for people to contact you with questions:",
+    name: "email",
+    message: "Provide your contact email address:",
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "Provide your github URL:",
   },
 ];
 
 inquirer.prompt(questions).then((entries) => {
   console.log(entries);
-  var readMe = generateMarkdown(entries);
-  fs.writeFile("newREADME.md", readMe, (err) => {
+  let generatedMe = generateMarkdown(entries);
+  fs.writeFile("newREADME.md", generatedMe, (err) => {
     if (err) throw err;
     console.log("You generated a new README!");
   });
 });
 
-// function to write README file
+// // function to write README file
 // function writeToFile(fileName, data) {}
 
-// function to initialize program
-function init() {}
+// // function to initialize program
+// function init() {}
 
-// function call to initialize program
-init();
+// // function call to initialize program
+// init();
