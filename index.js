@@ -15,11 +15,6 @@ const questions = [
     name: "description",
     message: "Please describe your project:",
   },
-//   {
-//     type: "input",
-//     name: "table of contents",
-//     message: "Please layout the table of contents for your project:",
-//   },
   {
     type: "input",
     name: "installation",
