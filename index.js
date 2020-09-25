@@ -1,3 +1,4 @@
+// Variables importing information.
 const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown.js");
@@ -35,8 +36,6 @@ const questions = [
     message: "Please select a license for your project:",
     choices: [
       "GNU AGPLv3",
-      "GNU GPLv3",
-      "GNU LGPLv3",
       "Mozilla Public License 2.0",
       "Apache License 2.0",
       "MIT License",
@@ -61,7 +60,7 @@ const questions = [
   {
     type: "input",
     name: "github",
-    message: "Provide your github URL:",
+    message: "Provide your github username:",
   },
 ];
 

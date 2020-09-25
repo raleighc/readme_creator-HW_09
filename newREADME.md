@@ -1,9 +1,11 @@
 
-  # project Title!
+  # Suck it bitch!
+
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description:
 
-  ewrgwergwergwqerg
+  flaming rosebud
 
   ## Table of Contents:
 
@@ -16,25 +18,28 @@
   
   ## Installation:
   
-  gwrgwergasdfgweqrgq
+  glad it with your fingers and squeeze
 
   ## Usage:
   
-  aqergqerthrtjrythnbf
+  I dunno
 
   ## License:
   
-  GNU AGPLv3
+  **Notice:**
+
+  This application is covered under: [Mozilla Public License 2.0](https://spdx.org/licenses/MPL-2.0.html)
 
   ## Contributing:
   
-  erth6hrgrstwhqarh
+  Lick it
 
   ## Tests:
   
-  qh4trhwt4hrsthrweh
+  nope
 
   ## Questions:
   
-  Questions can be directed to: tgwgdrgrwehhy
-  For other work please visit: aerthwrfbwretve
+  Questions can be directed to: [Email](rosebud@gmail.com) 
+
+  For other work please visit: [GitHub](https://github.com/rosebud)
